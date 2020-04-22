@@ -41,5 +41,6 @@ http://<YOUR_LAMBDA_URL_HERE>/?file=../../proc/self/environ
 ```
 The above will cause the function to attempt to read a file from the underlying file system.  In this case.. from /proc/self/environ
 
-
+## Credit
+@howiehowerton
 
